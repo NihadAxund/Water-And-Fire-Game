@@ -3,7 +3,11 @@ Pure js
 
 
                               FULL Javascript Game :)
-https://github.com/NihadAxund/Water-and-Fire/assets/113647098/537b8a6c-911a-4f8e-9d99-8b223e568c37
+
+
+https://github.com/NihadAxund/Water-And-Fire-Game/assets/113647098/05c0b898-1d13-461b-88d9-e4102ca25f55
+
+
 
 Project Owner's Note
 This project is owned by [ Nihad Axundzade ], and unauthorized use, reproduction, or distribution is prohibited. All rights to this project are reserved, effective as of 2020.
